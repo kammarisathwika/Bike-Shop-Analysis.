@@ -1,4 +1,4 @@
-# Bike Shop Analysis Dashboard
+# Bike Shop Analysis 
 
 ## Project Overview
 Data Analysis project using SQL, Excel, and Power BI.
